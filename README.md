@@ -20,5 +20,5 @@ This is a classification problem with two classes: won't buy and will buy, repre
 
 Since we are dealing with real-life data, we will need to preprocess it a bit. This is not that hard but is crucial to creating a good model.
 
-In any case, this should do the trick for most datasets organized in the way: many inputs, and then 1 cell containing the targets (supersized learning datasets).
+In any case, this should do the trick for most datasets organized in the way: many inputs, and then 1 cell containing the targets.
 
